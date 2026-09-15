@@ -1,0 +1,7 @@
+{
+  "name": "SaveBite",
+  "description": "AI-powered food waste management, demand prediction, and smart surplus redistribution ecosystem for institutional kitchens, food units, NGOs, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
